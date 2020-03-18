@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div#header{
+	margin: 0 450px;
+}
+
+div#header h1{
+	font-family: "cookie";
+	font-size: 50px;
+	padding-top: 30px;
+}
+
+div#header img{
+	width: 130px;
+	height: 100px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+
+#navbar{
+	width: 100%;
+	background: #4E342E;
+}
+
+#navbar .nav_ul li{
+	list-style: none;
+	float: left;
+}
+/*.clear{
+	clear: both;
+}*/
+
+#navbar .nav_ul li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: "acme";
+
+}
+#navbar .nav_ul li a:hover, .active{
+	background-color: #195863;
+}
+
+div#slider img{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+
+div.quote{
+	font-family:Myanmar3,Yunghkio;
+	position: absolute;
+	background-color: rgba(255, 255, 255, 0.5);
+	top: 50%;
+	left: 35%;
+	padding: 30px;
+
+}
+#we_offer h1{
+	font-family: "acme";
+	font-size: 45px;
+	text-align: center;
+
+
+}
+#we_offer p{
+	font-family: "acme";
+	font-size: 24px;
+	text-align: center;
+
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: inset;
+  border-width: 1px;
+}
+
+div.pic{
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+ 
+div.pic ul{
+	float: left;
+	list-style: none;
+	padding: 20px 230px;
+	width: 800px;
+	margin: 0;
+
+	}
+div.pic ul li{
+	float: left;
+	margin: 20px 20px 20px 20px;
+	width: 200px;
+}
+
+div.pic ul li img{
+    width: 150px;
+    height: 100px;
+
+}
+#our_shop h1{
+	font-family: "acme";
+	font-size: 45px;
+	text-align: center;
+
+
+}
+#our_shop ul{
+	margin-top: 50px;
+	margin-left:50px;
+	
+}
+#our_shop ul li{
+	list-style: none;
+	float: left;
+
+	/*margin: 0 0 0 20px;*/
+	/*width: 200px;
+*/}
+
+#our_shop ul li img{
+	float: left;
+	padding: 0 1px;
+	width: 130px;
+	height: 200px;
+}
+#our_shop ul li.para{
+	list-style: none;
+	float: left;
+	width: 700px;
+	height: 200px;
+	padding: 0 45px;
+	text-align: justify;
+}
+
+#today h1{
+	font-family: "acme";
+	font-size: 45px;
+	text-align: center;
+	margin-top: 250px;
+	padding-top: 50px;
+}
+
+#today .img img{
+	width: 600px;
+	height: 360px;
+	margin-left: 30px;
+	float: left;
+}
+#today p{
+	font-family: "acme";
+	font-size: 24px;
+	text-align: center;
+
+}
+#today .img2{
+	float: left;
+	list-style: none;
+
+}
+.img3 img{
+	width: 360px;
+	height:170px;
+}
+.img4 img{
+	width: 180px;
+	height: 188px;
+}
+#menu h1{
+	font-family: "acme";
+	font-size: 45px;
+	text-align: center;
+	margin-top: 400px;
+	
+
+}
+.menu2 {
+ float: left;
+ width: 30%;
+ height: 300px;
+ margin-right: 40px;
+ margin-left: 40px;
+}
+.menu2 img{
+	width: 100%;
+	height: 300px;
+}
+.menu3{
+	width: 100%;
+	height: 300px;
+}
+.menu3 li{
+	font-family: "cookie";
+	font-size: 24px;
+}
+.menu3 h1{
+	font-family: "cookie";
+	font-size: 40px;
+}
+#footer{
+	width: 100%;
+	height: 60px;
+	background: #4E342E;
+}
+#footer p{
+	text-align: center;
+	color: yellow;
+}
+
+
+
